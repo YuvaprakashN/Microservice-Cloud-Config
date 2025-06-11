@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+
+cards-ms:
+  message: "Cards Microservice Local App"
+  contactDetails:
+    name: "Cards Dev Team lead"
+    mail: "cardsteamdev@corp.com"
+  on-call-support:
+    - +91 9312092789

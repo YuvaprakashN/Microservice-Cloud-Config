@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+cards-ms:
+  message: "Cards Microservice Production App"
+  contactDetails:
+    name: "Cards Prod Team lead"
+    mail: "cardsteamprod@corp.com"
+  on-call-support:
+    - +91 9312092456

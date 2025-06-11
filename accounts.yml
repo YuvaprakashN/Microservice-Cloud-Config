@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts-ms:
+  message: "Accounts Microservice local App"
+  contactDetails:
+    name: "Accounts Dev Team lead"
+    mail: "accountsteamdev@corp.com"
+  on-call-support:
+    - +91 9312092123

@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+loans-ms:
+  message: "Loans Microservice local App"
+  contactDetails:
+    name: "Loans local Team lead"
+    mail: "loansteamdev@corp.com"
+  on-call-support:
+    -91 9312092789

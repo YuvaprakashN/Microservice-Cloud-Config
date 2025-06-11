@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+loans-ms:
+  message: "Loans Microservice QA App"
+  contactDetails:
+    name: "Loans QA Team lead"
+    mail: "loansteamqa@corp.com"
+  on-call-support:
+    -91 9312092123

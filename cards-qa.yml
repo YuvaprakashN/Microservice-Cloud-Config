@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards-ms:
+  message: "Cards Microservice QA App"
+  contactDetails:
+    name: "Cards QA Team lead"
+    mail: "cardsteamqa@corp.com"
+  on-call-support:
+    - +91 9312092123
