@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts-ms:
-  message: "Accounts Microservice local App"
+  message: "Accounts Microservice local App GIT config"
   contactDetails:
     name: "Accounts Dev Team lead"
     mail: "accountsteamdev@corp.com"
