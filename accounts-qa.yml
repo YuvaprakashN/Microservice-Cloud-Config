@@ -2,8 +2,8 @@ build:
   version: "2.0"
 
 accounts-ms:
-  message: "Accounts Microservice QA App"
-  contactDetails:
+  message: "Accounts Microservice QA App GIT config"
+  contactDetails: 
     name: "Accounts QA Team lead"
     mail: "accountsteamqa@corp.com"
   on-call-support:
