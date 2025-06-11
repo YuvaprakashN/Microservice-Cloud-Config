@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts-ms:
-  message: "Welcome to Accounbts related production GIT APIs refresh"
+  message: "Welcome to Accounbts related production GIT APIs refresh bus"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}5514e6c8194abb8ae4502c0ed0dec26a0084e462eb29d0ff3a82060579790619313d82b9ed79cf834ee326f361cb7252"
