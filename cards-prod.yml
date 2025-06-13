@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards-ms:
-  message: "Cards Microservice Production App"
+  message: "Cards Microservice Production App GIT"
   contactDetails:
     name: "Cards Prod Team lead"
     mail: "cardsteamprod@corp.com"
