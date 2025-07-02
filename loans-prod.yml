@@ -4,7 +4,7 @@ build:
 loans-ms:
   message: "Loans Microservice Production App"
   contactDetails:
-    name: "Loans Prod Team lead"
+    name: "YUVA Loans Prod Team lead"
     mail: "loansteamprod@corp.com"
   on-call-support:
     -91 9312092456
